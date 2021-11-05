@@ -194,8 +194,8 @@ include("hero.php");
                                 </p>
                                 <div class="post-meta">
                                     <p>By <a href="#">P. Y.</a></p>
-                                    <!-- <p>3 comments</p> -->
- -->     <!--                            </div>
+                                    < <p>3 comments</p> -->
+    <!--                            </div>
                             </div>
                         </div>
                     </div>
